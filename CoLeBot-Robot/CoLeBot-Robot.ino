@@ -22,8 +22,8 @@ struct backDataPacket {
 DataPacket data; 
 backDataPacket backData;
 
-const byte address[6] = "BOOBS";
-const byte address2[6] = "BOOB2";
+const byte address[6] = "58008";
+const byte address2[6] = "58009";
 
 // Is it DIR 1 and 2 or DIR R and F?
 #define PIN_L_ENABLE 6

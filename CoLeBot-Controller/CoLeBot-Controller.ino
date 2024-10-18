@@ -72,8 +72,8 @@ struct backDataPacket {
 DataPacket data;
 backDataPacket backData;
 
-const byte address[6] = "BOOBS";
-const byte address2[6] = "BOOB2";
+const byte address[6] = "58008";
+const byte address2[6] = "58009";
 
 //you can change the 5-digit number but do not change the variable initialization or name
 //those are necessary for the RF24 library
